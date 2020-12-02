@@ -1,0 +1,23 @@
+body {
+	background: linear-gradient(to right, #5AFF15, #00B712);
+	font-family: Oswald;
+	color: white;
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-around;
+}
+
+h1 {
+	text-align: center;
+}
+
+#result {
+	text-align: center;
+	font-size: 2em;
+}
+
+#turns {
+	font-size: 20px;
+}
